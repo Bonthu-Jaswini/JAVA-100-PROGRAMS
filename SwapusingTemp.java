@@ -1,5 +1,5 @@
 import java.util.*;
-class SwapusingTemp{
+class swapusingtemp{
   public static void main(String []args){
     int temp;
     Scanner sc=new Scanner (System.in);
@@ -9,7 +9,7 @@ class SwapusingTemp{
     temp=a;
     a=b;
     b=temp;
-    System.out.println("a="+a,"b="+b);
+    System.out.println("a=" + a + ",b=" + b);
   }
 }
 
