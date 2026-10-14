@@ -11,9 +11,9 @@ class Main {
         Arrays.sort(a);
         Arrays.sort(b);
         if(Arrays.equals(a,b))
-            System.out.println("Given Two Strings are ANGRAM");
+            System.out.println("Given Two Strings are ANAGRAM");
         else
-            System.out.println("Given Two Strings are NOT ANGRAM");
+            System.out.println("Given Two Strings are NOT ANAGRAM");
         }
     }
 
